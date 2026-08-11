@@ -1,0 +1,46 @@
+{
+  "routes": [
+    {
+      "id": "character_progress",
+      "label": "Character progression",
+      "description": "The player is trying to continue a character-related route or is unsure what to do next with a particular character.",
+      "resourceType": "character_guide",
+      "priority": 1
+    },
+    {
+      "id": "story_progress",
+      "label": "Story progression",
+      "description": "The player has completed an event or part of the story and is unsure where to continue.",
+      "resourceType": "walkthrough",
+      "priority": 2
+    },
+    {
+      "id": "event_requirement",
+      "label": "Event or requirement",
+      "description": "The player believes an event should be available but it has not appeared or progressed.",
+      "resourceType": "progression_guide",
+      "priority": 3
+    },
+    {
+      "id": "location_problem",
+      "label": "Location or access problem",
+      "description": "The player cannot find the required location, area, or interaction needed to continue.",
+      "resourceType": "walkthrough",
+      "priority": 4
+    },
+    {
+      "id": "general_stuck",
+      "label": "General progression problem",
+      "description": "The player is stuck but cannot identify a specific character, event, location, or technical problem.",
+      "resourceType": "general_guide",
+      "priority": 5
+    },
+    {
+      "id": "technical_problem",
+      "label": "Technical problem",
+      "description": "The player is experiencing an installation, loading, save, update, or other technical problem.",
+      "resourceType": "troubleshooting",
+      "priority": 6
+    }
+  ]
+}
