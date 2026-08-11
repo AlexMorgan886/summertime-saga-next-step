@@ -1,0 +1,46 @@
+{
+  "mappings": [
+    {
+      "routeId": "character_progress",
+      "resourceType": "character_guide",
+      "title": "Character Guides",
+      "description": "Browse character-specific guides to find requirements, events, and progression information.",
+      "url": "https://summersagahub.com/characters/"
+    },
+    {
+      "routeId": "story_progress",
+      "resourceType": "walkthrough",
+      "title": "Summertime Saga Walkthrough",
+      "description": "Use the walkthrough to compare your current progress with the documented story progression.",
+      "url": "https://summersagahub.com/summertime-saga-walkthrough/"
+    },
+    {
+      "routeId": "event_requirement",
+      "resourceType": "progression_guide",
+      "title": "Version History",
+      "description": "Check version information and documented changes that may affect progression.",
+      "url": "https://summersagahub.com/summertime-saga-version-history/"
+    },
+    {
+      "routeId": "location_problem",
+      "resourceType": "walkthrough",
+      "title": "Summertime Saga Walkthrough",
+      "description": "Use the walkthrough to find documented locations, events, and progression steps.",
+      "url": "https://summersagahub.com/summertime-saga-walkthrough/"
+    },
+    {
+      "routeId": "general_stuck",
+      "resourceType": "general_guide",
+      "title": "Find Your Next Step",
+      "description": "Use the interactive tool to narrow down which guide is most relevant to your situation.",
+      "url": "https://summersagahub.com/summertime-saga-stuck-next-step/"
+    },
+    {
+      "routeId": "technical_problem",
+      "resourceType": "troubleshooting",
+      "title": "Troubleshooting Resources",
+      "description": "Find help with installation, saves, compatibility, updates, and other technical problems.",
+      "url": "https://summersagahub.com/summertime-saga-save-compatibility-checker/"
+    }
+  ]
+}
