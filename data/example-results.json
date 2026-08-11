@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "exampleId": "character-example",
+      "category": "character_progress",
+      "resourceType": "character_guide"
+    },
+    {
+      "exampleId": "story-example",
+      "category": "story_progress",
+      "resourceType": "walkthrough"
+    },
+    {
+      "exampleId": "event-example",
+      "category": "event_requirement",
+      "resourceType": "progression_guide"
+    },
+    {
+      "exampleId": "location-example",
+      "category": "location_problem",
+      "resourceType": "walkthrough"
+    },
+    {
+      "exampleId": "general-example",
+      "category": "general_stuck",
+      "resourceType": "general_guide"
+    },
+    {
+      "exampleId": "technical-example",
+      "category": "technical_problem",
+      "resourceType": "troubleshooting"
+    }
+  ]
+}
