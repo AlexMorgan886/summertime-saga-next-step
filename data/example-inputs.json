@@ -1,0 +1,34 @@
+{
+  "examples": [
+    {
+      "id": "character-example",
+      "situation": "I am stuck on a character route and don't know what to do next.",
+      "expectedCategory": "character_progress"
+    },
+    {
+      "id": "story-example",
+      "situation": "I finished an event and don't know where to continue the story.",
+      "expectedCategory": "story_progress"
+    },
+    {
+      "id": "event-example",
+      "situation": "I think I completed the requirement but the event is not appearing.",
+      "expectedCategory": "event_requirement"
+    },
+    {
+      "id": "location-example",
+      "situation": "I cannot find the location I need for the next part.",
+      "expectedCategory": "location_problem"
+    },
+    {
+      "id": "general-example",
+      "situation": "I am stuck and have no idea what I should do next.",
+      "expectedCategory": "general_stuck"
+    },
+    {
+      "id": "technical-example",
+      "situation": "My game or save is having a technical problem after an update.",
+      "expectedCategory": "technical_problem"
+    }
+  ]
+}
